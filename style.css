@@ -16,10 +16,27 @@ li {
     margin-bottom: 20px;
 }
 
+.partner {
+    text-align: center;
+}
+
+.partner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-decoration: underline;
+    color: white!important;
+}
+
+.partner a {
+    color: white!important;
+}
+
+.partner a:hover {
+    text-decoration: underline;
+}
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
 }
 
 a:hover {
@@ -470,7 +487,7 @@ nav .caret {
 }
 
 button {
-    outline: none!important;
+    
 }
 
 .btn-rd {
@@ -722,7 +739,7 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: #000000!important;
 }
 
 .med-width-whitespace {
@@ -780,7 +797,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #C8490E;
 }
 
 .tc-white {
@@ -1059,6 +1076,4 @@ h4 {
     font-style: italic;
 }
 
-.partenaire {
-    text-align: center;
-}
+
